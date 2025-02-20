@@ -1,9 +1,8 @@
 my name is doey and i do art, and i also do code as well, sometimes
 
-a couple of sites that i think are pretty cool:
-- [wasteof.money](https://wasteof.money)
-- [google](https://www.google.com)
-- [riso's epic site](http://riso.gay)
+some sites that i think are pretty cool:
+- [wikipedia](https://www.wikipedia.org)
+- [scratch](https://scratch.mit.edu)
 ---
 
 <details><summary>dog</summary>
